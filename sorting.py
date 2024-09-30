@@ -1,5 +1,5 @@
 
-def bubble(list)
+def bubble(list):
   i = 0
   for i in range(len(list)):
     j = i + 1
